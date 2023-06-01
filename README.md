@@ -1,2 +1,3 @@
 # project_weatherapp
-weather app
+Weather app created using HTML,Css and javascript
+  
